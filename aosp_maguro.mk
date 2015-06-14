@@ -15,7 +15,7 @@
 #
 $(call inherit-product, device/samsung/maguro/full_maguro.mk)
 
-$(call inherit-product, vendor/zmod/config/common.mk)
+#$(call inherit-product, vendor/zmod/config/common.mk)
 
 PRODUCT_NAME := aosp_maguro
 
