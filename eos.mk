@@ -54,7 +54,7 @@ PRIVATE_BUILD_DESC="yakju-user 4.2.2 JDQ39 573038 release-keys"
 
 # TouchControl package.
 #PRODUCT_PACKAGES += \
-	TouchControl
+#	TouchControl
 
 # Copy device specific prebuilt files.
 PRODUCT_COPY_FILES += \
